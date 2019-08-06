@@ -1,0 +1,11 @@
+/Users/mjm/Documents/dev/csharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.csprojAssemblyReference.cache
+/Users/mjm/Documents/dev/csharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/mjm/Documents/dev/csharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.AssemblyInfoInputs.cache
+/Users/mjm/Documents/dev/csharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.AssemblyInfo.cs
+/Users/mjm/Documents/dev/csharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.deps.json
+/Users/mjm/Documents/dev/csharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.runtimeconfig.json
+/Users/mjm/Documents/dev/csharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.runtimeconfig.dev.json
+/Users/mjm/Documents/dev/csharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.dll
+/Users/mjm/Documents/dev/csharp/DeckOfCards/bin/Debug/netcoreapp2.2/DeckOfCards.pdb
+/Users/mjm/Documents/dev/csharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.dll
+/Users/mjm/Documents/dev/csharp/DeckOfCards/obj/Debug/netcoreapp2.2/DeckOfCards.pdb
